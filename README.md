@@ -4,10 +4,16 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+Title: Developing a Neural Network Regression Model
 
+Objective: To design and implement a neural network architecture capable of accurately predicting a continuous target variable by learning non-linear relationships within a multi-dimensional dataset.
+
+Scope: The model must utilize optimized backpropagation and loss functions (such as Mean Squared Error) to minimize prediction variance and ensure high generalization performance on unseen data.
+
+Outcome: The final system will provide a robust, data-driven framework for precise numerical forecasting, outperforming traditional linear regression methods in handling complex, high-frequency data pattern.
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1276" height="826" alt="image" src="https://github.com/user-attachments/assets/4a0a1dc4-8959-450b-93e5-92be0a609d82" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
